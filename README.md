@@ -1,1 +1,1 @@
-demo version : "https://main.d4o88wdwjwm40.amplifyapp.com/"
+demo version : "https://main.d32ih5t3atgs2z.amplifyapp.com/"
